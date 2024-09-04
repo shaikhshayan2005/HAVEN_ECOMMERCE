@@ -1,0 +1,26 @@
+1. How to run 
+   npm start 
+
+2. express
+
+3. cors protect from cross origin 
+
+4. mongoose
+
+5. react redux that creates a store and stores data to save from drilling 
+   and when redux called to any componet data is accessed 
+
+6. composeWithDevTools: Connects your store to the Redux DevTools, a tool that helps you see 
+  what's happening inside  your app while you build it. 
+
+7. MiddleWare: : This adds special helpers to your store that can manage things like delayed actions 
+  (e.g., fetching data from the internet).
+
+8. thunk: is a special kind of function used in programming, especially in Redux, to handle actions 
+   that take time to complete, like fetching data from an API.
+
+9. JWT WEB TOKEN :assign a specific sign to the user credentials with payload,Multiple Devices/Browsers: Since each device or browser session generates a new token, the user can be logged in from multiple places simultaneously. Each session will have its own token stored in the tokens array.
+
+10. cookie-parser
+
+11. Cookies help websites remember who you are after you log in. Without cookies, you’d have to log in every time you move to a new page or return to the website.
